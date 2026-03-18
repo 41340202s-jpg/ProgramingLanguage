@@ -18,7 +18,7 @@
 
 **Week3**[作業一_Part2](https://github.com/41340202s-jpg/ProgramingLanguage/blob/main/HW1_%E6%97%A5%E5%B8%B8%E6%94%AF%E5%87%BA%E9%80%9F%E7%AE%97%E8%88%87%E5%88%86%E6%94%A4_Part2.ipynb)
 
-**Week4**[作業一](https://github.com/41340202s-jpg/ProgramingLanguage/blob/main/HW1_%E6%97%A5%E5%B8%B8%E6%94%AF%E5%87%BA%E9%80%9F%E7%AE%97%E8%88%87%E5%88%86%E6%94%A4_Part2.ipynb)
+**Week4**[支出速算與分攤](https://github.com/41340202s-jpg/ProgramingLanguage/blob/main/HW1_%E6%97%A5%E5%B8%B8%E6%94%AF%E5%87%BA%E9%80%9F%E7%AE%97%E8%88%87%E5%88%86%E6%94%A4_Part2.ipynb)
 
 ---
 
