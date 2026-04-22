@@ -22,6 +22,8 @@
 
 **Week5**[作業二_Part1](https://github.com/41340202s-jpg/ProgramingLanguage/blob/main/HW2_%E6%88%90%E7%B8%BE%E4%B8%80%E6%9C%AC%E9%80%9A_Part1.ipynb)
 
+**Week6**[作業二_Part2](https://github.com/41340202s-jpg/ProgramingLanguage/blob/main/HW2_%E6%88%90%E7%B8%BE%E4%B8%80%E6%9C%AC%E9%80%9A_Part2.ipynb)
+
 ---
 
 ## 專題連結區
